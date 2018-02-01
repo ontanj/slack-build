@@ -1,0 +1,17 @@
+{
+    "name": "ontanj/slackbuild",
+    "description": "Creates the array needed for input to Slack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ontanj",
+            "email": "anton.jeppsson@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4": {
+	    "SlackBuild": "src/"
+	}
+    }
+}

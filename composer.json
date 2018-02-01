@@ -1,5 +1,5 @@
 {
-    "name": "ontanj/slackbuild",
+    "name": "ontanj/slack-build",
     "description": "Creates the array needed for input to Slack",
     "license": "MIT",
     "authors": [

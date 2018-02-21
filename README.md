@@ -138,3 +138,7 @@ const blue = 4;
 const green = 5;
 const red = 6;
 ```
+
+## Future
+
+The aim is to include more functions. Feel free to contribute.
